@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><preferences stamp="2">
+	<com.4d>
+		<web>
+			<standalone_server>
+				<configuration allow_ssl="false" port_number="80"/>
+				<options>
+					<cache cache_max_size="524288"/>
+				</options>
+			</standalone_server>
+		</web>
+	</com.4d>
+</preferences>
